@@ -7,16 +7,6 @@
 アイコン:霜山 シモン様（http://seiga.nicovideo.jp/user/illust/22496889）
 ウィンドウ背景：blueberry様(http://www.nicovideo.jp/user/1584023)
 
-Yukarinclock is Mit License.
-It is using png and gif file.
-png and gif file are not Mit License.
-If you want to use png and gif files, please contact the following contacts.
-
-icon:Shimoyama Shimon（http://seiga.nicovideo.jp/user/illust/22496889）
-Window background:blueberry(http://www.nicovideo.jp/user/1584023)
-
-Thank you.
-
 
 The MIT License
 
