@@ -1,19 +1,29 @@
-(c)2018 noko1024
+(c)2018-2019 noko1024
 
 ゆかりん時計はMITライセンス下で配布されます。
 詳しくはLICENSE.txtを御覧ください。
-ただし、ゆかりん時計で使われている画像ファイルは、各著作者が権利を保有しMITライセンスから除外されます。
-画像ファイルを利用する場合は下記の著作者への連絡をお願い致します。
+ただし、ゆかりん時計で使われているpng,gif（以下特定ファイル）は、各著作者が権利を保有しMITライセンスから除外されます。
+特定ファイルを利用する場合は下記の著作者への連絡をお願い致します。
 
 アイコン:霜山 シモン様（http://seiga.nicovideo.jp/user/illust/22496889）
 ウィンドウ背景：blueberry様(http://www.nicovideo.jp/user/1584023)
+
+Yukarinclock is Mit License.
+It is using png and gif file.
+png and gif file are not Mit License.
+If you want to use png and gif files, please contact the following contacts.
+
+icon:Shimoyama Shimon（http://seiga.nicovideo.jp/user/illust/22496889）
+Window background:blueberry(http://www.nicovideo.jp/user/1584023)
+
+Thank you.
 
 
 The MIT License
 
 SPDX short identifier: MIT
 
-Copyright <2018> <noko1024>
+Copyright <2018-2019> <noko1024>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
