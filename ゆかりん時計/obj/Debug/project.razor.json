@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Yuko\\git\\Yukarin-clock\\Yukarin-clock\\ゆかりん時計\\ゆかりん時計\\ゆかりん時計.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
