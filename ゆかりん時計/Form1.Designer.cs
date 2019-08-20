@@ -32,6 +32,7 @@
             System.Windows.Forms.ToolStripMenuItem ファイルToolStripMenuItem;
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.最前面へ表示ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ミュートモードToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.終了ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.lblTime = new System.Windows.Forms.Label();
@@ -40,7 +41,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.label2 = new System.Windows.Forms.Label();
-            this.ミュートモードToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             ファイルToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
@@ -66,15 +66,23 @@
             // 最前面へ表示ToolStripMenuItem
             // 
             this.最前面へ表示ToolStripMenuItem.Name = "最前面へ表示ToolStripMenuItem";
-            this.最前面へ表示ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.最前面へ表示ToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
             this.最前面へ表示ToolStripMenuItem.Text = "最前面へ表示";
             this.最前面へ表示ToolStripMenuItem.ToolTipText = "最前面に表示します";
             this.最前面へ表示ToolStripMenuItem.Click += new System.EventHandler(this.最前面へ表示ToolStripMenuItem_Click);
             // 
+            // ミュートモードToolStripMenuItem
+            // 
+            this.ミュートモードToolStripMenuItem.Name = "ミュートモードToolStripMenuItem";
+            this.ミュートモードToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
+            this.ミュートモードToolStripMenuItem.Text = "ミュートモード";
+            this.ミュートモードToolStripMenuItem.ToolTipText = "時報をミュートします";
+            this.ミュートモードToolStripMenuItem.Click += new System.EventHandler(this.ミュートモードToolStripMenuItem_Click);
+            // 
             // 終了ToolStripMenuItem
             // 
             this.終了ToolStripMenuItem.Name = "終了ToolStripMenuItem";
-            this.終了ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.終了ToolStripMenuItem.Size = new System.Drawing.Size(138, 22);
             this.終了ToolStripMenuItem.Text = "終了";
             this.終了ToolStripMenuItem.ToolTipText = "ゆかりん時計を終了します";
             this.終了ToolStripMenuItem.Click += new System.EventHandler(this.終了ToolStripMenuItem_Click);
@@ -150,14 +158,6 @@
             this.toolTip1.SetToolTip(this.label2, "クリックでタイマーの設定ウィンドウを表示します");
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // ミュートモードToolStripMenuItem
-            // 
-            this.ミュートモードToolStripMenuItem.Name = "ミュートモードToolStripMenuItem";
-            this.ミュートモードToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.ミュートモードToolStripMenuItem.Text = "ミュートモード";
-            this.ミュートモードToolStripMenuItem.ToolTipText = "時報をミュートします";
-            this.ミュートモードToolStripMenuItem.Click += new System.EventHandler(this.ミュートモードToolStripMenuItem_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -176,7 +176,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "ゆかりん時計β(128*128)";
+            this.Text = "ゆかりん時計";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
