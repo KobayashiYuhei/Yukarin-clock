@@ -1,11 +1,12 @@
-﻿(c)2018-2019 noko1024
+(c)2018-2019 noko1024
 
-ゆかりん時計はMITライセンス下で配布されます。
-ただし、ゆかりん時計で使われている画像ファイルは、各著作者が権利を保有しMITライセンスから除外されます。
-画像ファイルを利用する場合は下記の著作者への連絡をお願い致します。
+�䂩��񎞌v��MIT���C�Z���X���Ŕz�z����܂��B
+�������A�䂩��񎞌v�Ŏg���Ă���摜�t�@�C���́A�e����҂�������ۗL��MIT���C�Z���X���珜�O����܂��B
+�摜�t�@�C���𗘗p����ꍇ�͉��L�̒���҂ւ̘A�������肢�v���܂��B
 
-アイコン:霜山 シモン様（http://seiga.nicovideo.jp/user/illust/22496889）
-ウィンドウ背景：blueberry様(http://www.nicovideo.jp/user/1584023)
+�A�C�R��:���R �V�����l�ihttp://seiga.nicovideo.jp/user/illust/22496889�j
+�E�B���h�E�w�i�Fblueberry�l(http://www.nicovideo.jp/user/1584023)
+�A���[���摜:���񂾂񂲗l(https://www.pixiv.net/member.php?id=1743703)
 
 The MIT License
 

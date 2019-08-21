@@ -47,9 +47,8 @@ namespace ゆかりん時計
             //時報判定用（後同期の方）
             DateTime dt = DateTime.Now;
             checkTime = dt.Hour;
-            Console.WriteLine(Application.ProductVersion);
 
-            VersionCHK();
+            //VersionCHK();
 
             timer1.Start();
             
@@ -69,6 +68,8 @@ namespace ゆかりん時計
 
                 ChkURL.Close();
                 wc.Dispose();
+
+                Console.WriteLine(Application.ProductVersion);
 
                 if (NewVersion != Application.ProductVersion)
                 {

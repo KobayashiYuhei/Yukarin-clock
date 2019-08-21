@@ -19,10 +19,10 @@ namespace ゆかりん時計.Properties {
     // または Visual Studio のようなツールを使用して自動生成されました。
     // メンバーを追加または削除するには、.ResX ファイルを編集して、/str オプションと共に
     // ResGen を実行し直すか、または VS プロジェクトをビルドし直します。
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace ゆかりん時計.Properties {
         ///   このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ゆかりん時計.Properties.Resources", typeof(Resources).Assembly);
@@ -47,11 +47,11 @@ namespace ゆかりん時計.Properties {
         }
         
         /// <summary>
-        ///   厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+        ///   すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
         ///   現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _0 {
+        public static System.IO.UnmanagedMemoryStream _0 {
             get {
                 return ResourceManager.GetStream("_0", resourceCulture);
             }
@@ -72,7 +72,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _1 {
+        public static System.IO.UnmanagedMemoryStream _1 {
             get {
                 return ResourceManager.GetStream("_1", resourceCulture);
             }
@@ -81,7 +81,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _10 {
+        public static System.IO.UnmanagedMemoryStream _10 {
             get {
                 return ResourceManager.GetStream("_10", resourceCulture);
             }
@@ -90,7 +90,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _11 {
+        public static System.IO.UnmanagedMemoryStream _11 {
             get {
                 return ResourceManager.GetStream("_11", resourceCulture);
             }
@@ -99,7 +99,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _12 {
+        public static System.IO.UnmanagedMemoryStream _12 {
             get {
                 return ResourceManager.GetStream("_12", resourceCulture);
             }
@@ -108,7 +108,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _13 {
+        public static System.IO.UnmanagedMemoryStream _13 {
             get {
                 return ResourceManager.GetStream("_13", resourceCulture);
             }
@@ -117,7 +117,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _14 {
+        public static System.IO.UnmanagedMemoryStream _14 {
             get {
                 return ResourceManager.GetStream("_14", resourceCulture);
             }
@@ -126,7 +126,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _15 {
+        public static System.IO.UnmanagedMemoryStream _15 {
             get {
                 return ResourceManager.GetStream("_15", resourceCulture);
             }
@@ -135,7 +135,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _16 {
+        public static System.IO.UnmanagedMemoryStream _16 {
             get {
                 return ResourceManager.GetStream("_16", resourceCulture);
             }
@@ -144,7 +144,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _17 {
+        public static System.IO.UnmanagedMemoryStream _17 {
             get {
                 return ResourceManager.GetStream("_17", resourceCulture);
             }
@@ -153,7 +153,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _18 {
+        public static System.IO.UnmanagedMemoryStream _18 {
             get {
                 return ResourceManager.GetStream("_18", resourceCulture);
             }
@@ -162,7 +162,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _19 {
+        public static System.IO.UnmanagedMemoryStream _19 {
             get {
                 return ResourceManager.GetStream("_19", resourceCulture);
             }
@@ -171,7 +171,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _2 {
+        public static System.IO.UnmanagedMemoryStream _2 {
             get {
                 return ResourceManager.GetStream("_2", resourceCulture);
             }
@@ -180,7 +180,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _20 {
+        public static System.IO.UnmanagedMemoryStream _20 {
             get {
                 return ResourceManager.GetStream("_20", resourceCulture);
             }
@@ -189,7 +189,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _21 {
+        public static System.IO.UnmanagedMemoryStream _21 {
             get {
                 return ResourceManager.GetStream("_21", resourceCulture);
             }
@@ -198,7 +198,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _22 {
+        public static System.IO.UnmanagedMemoryStream _22 {
             get {
                 return ResourceManager.GetStream("_22", resourceCulture);
             }
@@ -207,7 +207,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _23 {
+        public static System.IO.UnmanagedMemoryStream _23 {
             get {
                 return ResourceManager.GetStream("_23", resourceCulture);
             }
@@ -216,7 +216,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _24 {
+        public static System.IO.UnmanagedMemoryStream _24 {
             get {
                 return ResourceManager.GetStream("_24", resourceCulture);
             }
@@ -225,7 +225,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _3 {
+        public static System.IO.UnmanagedMemoryStream _3 {
             get {
                 return ResourceManager.GetStream("_3", resourceCulture);
             }
@@ -234,7 +234,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _4 {
+        public static System.IO.UnmanagedMemoryStream _4 {
             get {
                 return ResourceManager.GetStream("_4", resourceCulture);
             }
@@ -243,7 +243,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _5 {
+        public static System.IO.UnmanagedMemoryStream _5 {
             get {
                 return ResourceManager.GetStream("_5", resourceCulture);
             }
@@ -252,7 +252,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _6 {
+        public static System.IO.UnmanagedMemoryStream _6 {
             get {
                 return ResourceManager.GetStream("_6", resourceCulture);
             }
@@ -261,7 +261,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _7 {
+        public static System.IO.UnmanagedMemoryStream _7 {
             get {
                 return ResourceManager.GetStream("_7", resourceCulture);
             }
@@ -270,7 +270,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _8 {
+        public static System.IO.UnmanagedMemoryStream _8 {
             get {
                 return ResourceManager.GetStream("_8", resourceCulture);
             }
@@ -279,7 +279,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream _9 {
+        public static System.IO.UnmanagedMemoryStream _9 {
             get {
                 return ResourceManager.GetStream("_9", resourceCulture);
             }
@@ -288,7 +288,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream Yukari {
+        public static System.IO.UnmanagedMemoryStream Yukari {
             get {
                 return ResourceManager.GetStream("Yukari", resourceCulture);
             }
@@ -297,7 +297,7 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   System.IO.MemoryStream に類似した型 System.IO.UnmanagedMemoryStream のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.IO.UnmanagedMemoryStream YukarinAram {
+        public static System.IO.UnmanagedMemoryStream YukarinAram {
             get {
                 return ResourceManager.GetStream("YukarinAram", resourceCulture);
             }
@@ -306,10 +306,20 @@ namespace ゆかりん時計.Properties {
         /// <summary>
         ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.Drawing.Bitmap ゆかりん時計new {
+        public static System.Drawing.Bitmap ゆかりん時計new {
             get {
                 object obj = ResourceManager.GetObject("ゆかりん時計new", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        public static System.Drawing.Icon ゆかりん時計アイコン {
+            get {
+                object obj = ResourceManager.GetObject("ゆかりん時計アイコン", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
             }
         }
     }

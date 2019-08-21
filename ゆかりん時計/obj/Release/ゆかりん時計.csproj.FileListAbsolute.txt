@@ -1,0 +1,13 @@
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\bin\Release\ゆかりん時計.exe.config
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\bin\Release\ゆかりん時計.exe
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\bin\Release\ゆかりん時計.pdb
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.csprojAssemblyReference.cache
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.Form1.resources
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.Form2.resources
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.Form3.resources
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.Form4.resources
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.Properties.Resources.resources
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.csproj.GenerateResource.cache
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.csproj.CoreCompileInputs.cache
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.exe
+C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Release\ゆかりん時計.pdb
