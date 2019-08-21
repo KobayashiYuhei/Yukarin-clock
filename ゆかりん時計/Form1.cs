@@ -43,34 +43,43 @@ namespace ゆかりん時計
             System.Media.SoundPlayer player = new System.Media.SoundPlayer(strm);
 
             player.Play();
-            //VersionCHK();
+
             //時報判定用（後同期の方）
             DateTime dt = DateTime.Now;
             checkTime = dt.Hour;
             Console.WriteLine(Application.ProductVersion);
+
+            VersionCHK();
+
             timer1.Start();
             
         }
 
         private void VersionCHK()
         {
-            //応答プロセスが遅いと思われる。
-            //マルチスレッド検討
-
-            WebClient wc = new WebClient();
-            Stream ChkURL = wc.OpenRead("https://docs.google.com/document/d/10hBIBro3vVM6UEhzF3n71RFA4I5cBvD2yAI288ZR44w/edit?usp=sharing");
-            StreamReader sr = new StreamReader(ChkURL, Encoding.GetEncoding(51932));
-
-            string NewVersion = sr.ReadToEnd();
-
-            ChkURL.Close();
-            wc.Dispose();
-
-            if (NewVersion != Application.ProductVersion)
+            try
             {
-                MessageBox.Show("アップデートがあります","バージョン情報", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+
+                WebClient wc = new WebClient();
+                Stream ChkURL = wc.OpenRead("https://docs.google.com/document/d/10hBIBro3vVM6UEhzF3n71RFA4I5cBvD2yAI288ZR44w/edit?usp=sharing");
+                StreamReader sr = new StreamReader(ChkURL, Encoding.GetEncoding(51932));
+
+                string NewVersion = sr.ReadToEnd();
+
+                ChkURL.Close();
+                wc.Dispose();
+
+                if (NewVersion != Application.ProductVersion)
+                {
+                    MessageBox.Show("アップデートがあります。", "バージョン情報", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+
             }
-            
+            catch
+            {
+                MessageBox.Show("アップデートを確認できません。ネットワーク接続をご確認ください。", "バージョン情報", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
 
         }
 
