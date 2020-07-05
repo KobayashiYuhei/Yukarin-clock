@@ -141,6 +141,7 @@
             this.label3.Size = new System.Drawing.Size(332, 26);
             this.label3.TabIndex = 11;
             this.label3.Text = "タイマーをいつにセットしますか？";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // Form4
             // 

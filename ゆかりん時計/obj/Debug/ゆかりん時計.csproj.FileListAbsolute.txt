@@ -36,3 +36,15 @@ C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時�
 C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.Properties.Resources.resources
 C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.csproj.GenerateResource.cache
 C:\Users\ynoko\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.csproj.CoreCompileInputs.cache
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\bin\Debug\ゆかりん時計.exe.config
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\bin\Debug\ゆかりん時計.exe
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\bin\Debug\ゆかりん時計.pdb
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.csprojAssemblyReference.cache
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.Form1.resources
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.Form2.resources
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.Form3.resources
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.Form4.resources
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.Properties.Resources.resources
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.csproj.GenerateResource.cache
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.exe
+C:\Users\noko1024\.git\Yukarin-clock\ゆかりん時計\obj\Debug\ゆかりん時計.pdb
